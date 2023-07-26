@@ -1,0 +1,8 @@
+F:\Assisted Project\Section8-Working with Data Structures\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+F:\Assisted Project\Section8-Working with Data Structures\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe
+F:\Assisted Project\Section8-Working with Data Structures\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.pdb
+F:\Assisted Project\Section8-Working with Data Structures\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.AssemblyReference.cache
+F:\Assisted Project\Section8-Working with Data Structures\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.SuggestedBindingRedirects.cache
+F:\Assisted Project\Section8-Working with Data Structures\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.CoreCompileInputs.cache
+F:\Assisted Project\Section8-Working with Data Structures\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.exe
+F:\Assisted Project\Section8-Working with Data Structures\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.pdb

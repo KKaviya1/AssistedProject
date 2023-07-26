@@ -1,0 +1,8 @@
+F:\Assisted Project\Section8-Working with Data Structures\Binary Search\Binary Search\bin\Debug\Binary Search.exe.config
+F:\Assisted Project\Section8-Working with Data Structures\Binary Search\Binary Search\bin\Debug\Binary Search.exe
+F:\Assisted Project\Section8-Working with Data Structures\Binary Search\Binary Search\bin\Debug\Binary Search.pdb
+F:\Assisted Project\Section8-Working with Data Structures\Binary Search\Binary Search\obj\Debug\Binary Search.csproj.AssemblyReference.cache
+F:\Assisted Project\Section8-Working with Data Structures\Binary Search\Binary Search\obj\Debug\Binary Search.csproj.SuggestedBindingRedirects.cache
+F:\Assisted Project\Section8-Working with Data Structures\Binary Search\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+F:\Assisted Project\Section8-Working with Data Structures\Binary Search\Binary Search\obj\Debug\Binary Search.exe
+F:\Assisted Project\Section8-Working with Data Structures\Binary Search\Binary Search\obj\Debug\Binary Search.pdb

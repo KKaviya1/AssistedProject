@@ -1,0 +1,8 @@
+F:\Assisted Project\Section6-C sharp basics\Working with Text\Working with Text\obj\Debug\Working with Text.csproj.AssemblyReference.cache
+F:\Assisted Project\Section6-C sharp basics\Working with Text\Working with Text\obj\Debug\Working with Text.csproj.SuggestedBindingRedirects.cache
+F:\Assisted Project\Section6-C sharp basics\Working with Text\Working with Text\obj\Debug\Working with Text.csproj.CoreCompileInputs.cache
+F:\Assisted Project\Section6-C sharp basics\Working with Text\Working with Text\bin\Debug\Working with Text.exe.config
+F:\Assisted Project\Section6-C sharp basics\Working with Text\Working with Text\bin\Debug\Working with Text.exe
+F:\Assisted Project\Section6-C sharp basics\Working with Text\Working with Text\bin\Debug\Working with Text.pdb
+F:\Assisted Project\Section6-C sharp basics\Working with Text\Working with Text\obj\Debug\Working with Text.exe
+F:\Assisted Project\Section6-C sharp basics\Working with Text\Working with Text\obj\Debug\Working with Text.pdb

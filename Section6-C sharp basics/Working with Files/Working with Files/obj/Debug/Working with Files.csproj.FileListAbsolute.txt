@@ -1,0 +1,8 @@
+F:\Assisted Project\Section6-C sharp basics\Working with Files\Working with Files\bin\Debug\Working with Files.exe.config
+F:\Assisted Project\Section6-C sharp basics\Working with Files\Working with Files\bin\Debug\Working with Files.exe
+F:\Assisted Project\Section6-C sharp basics\Working with Files\Working with Files\bin\Debug\Working with Files.pdb
+F:\Assisted Project\Section6-C sharp basics\Working with Files\Working with Files\obj\Debug\Working with Files.csproj.AssemblyReference.cache
+F:\Assisted Project\Section6-C sharp basics\Working with Files\Working with Files\obj\Debug\Working with Files.csproj.SuggestedBindingRedirects.cache
+F:\Assisted Project\Section6-C sharp basics\Working with Files\Working with Files\obj\Debug\Working with Files.csproj.CoreCompileInputs.cache
+F:\Assisted Project\Section6-C sharp basics\Working with Files\Working with Files\obj\Debug\Working with Files.exe
+F:\Assisted Project\Section6-C sharp basics\Working with Files\Working with Files\obj\Debug\Working with Files.pdb

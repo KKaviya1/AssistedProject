@@ -1,0 +1,8 @@
+F:\Assisted Project\Section8-Working with Data Structures\Arrays\Arrays\bin\Debug\Arrays.exe.config
+F:\Assisted Project\Section8-Working with Data Structures\Arrays\Arrays\bin\Debug\Arrays.exe
+F:\Assisted Project\Section8-Working with Data Structures\Arrays\Arrays\bin\Debug\Arrays.pdb
+F:\Assisted Project\Section8-Working with Data Structures\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+F:\Assisted Project\Section8-Working with Data Structures\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+F:\Assisted Project\Section8-Working with Data Structures\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+F:\Assisted Project\Section8-Working with Data Structures\Arrays\Arrays\obj\Debug\Arrays.exe
+F:\Assisted Project\Section8-Working with Data Structures\Arrays\Arrays\obj\Debug\Arrays.pdb

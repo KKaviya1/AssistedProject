@@ -1,0 +1,8 @@
+F:\Assisted Project\Section8-Working with Data Structures\Quick Sort\Quick Sort\bin\Debug\Quick Sort.exe.config
+F:\Assisted Project\Section8-Working with Data Structures\Quick Sort\Quick Sort\bin\Debug\Quick Sort.exe
+F:\Assisted Project\Section8-Working with Data Structures\Quick Sort\Quick Sort\bin\Debug\Quick Sort.pdb
+F:\Assisted Project\Section8-Working with Data Structures\Quick Sort\Quick Sort\obj\Debug\Quick Sort.csproj.AssemblyReference.cache
+F:\Assisted Project\Section8-Working with Data Structures\Quick Sort\Quick Sort\obj\Debug\Quick Sort.csproj.SuggestedBindingRedirects.cache
+F:\Assisted Project\Section8-Working with Data Structures\Quick Sort\Quick Sort\obj\Debug\Quick Sort.csproj.CoreCompileInputs.cache
+F:\Assisted Project\Section8-Working with Data Structures\Quick Sort\Quick Sort\obj\Debug\Quick Sort.exe
+F:\Assisted Project\Section8-Working with Data Structures\Quick Sort\Quick Sort\obj\Debug\Quick Sort.pdb

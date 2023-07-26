@@ -1,0 +1,8 @@
+F:\Assisted Project\Section8-Working with Data Structures\Merge Sort\Merge Sort\bin\Debug\Merge Sort.exe.config
+F:\Assisted Project\Section8-Working with Data Structures\Merge Sort\Merge Sort\bin\Debug\Merge Sort.exe
+F:\Assisted Project\Section8-Working with Data Structures\Merge Sort\Merge Sort\bin\Debug\Merge Sort.pdb
+F:\Assisted Project\Section8-Working with Data Structures\Merge Sort\Merge Sort\obj\Debug\Merge Sort.csproj.AssemblyReference.cache
+F:\Assisted Project\Section8-Working with Data Structures\Merge Sort\Merge Sort\obj\Debug\Merge Sort.csproj.SuggestedBindingRedirects.cache
+F:\Assisted Project\Section8-Working with Data Structures\Merge Sort\Merge Sort\obj\Debug\Merge Sort.csproj.CoreCompileInputs.cache
+F:\Assisted Project\Section8-Working with Data Structures\Merge Sort\Merge Sort\obj\Debug\Merge Sort.exe
+F:\Assisted Project\Section8-Working with Data Structures\Merge Sort\Merge Sort\obj\Debug\Merge Sort.pdb

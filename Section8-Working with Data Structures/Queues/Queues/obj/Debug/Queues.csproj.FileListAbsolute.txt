@@ -1,0 +1,8 @@
+F:\Assisted Project\Section8-Working with Data Structures\Queues\Queues\bin\Debug\Queues.exe.config
+F:\Assisted Project\Section8-Working with Data Structures\Queues\Queues\bin\Debug\Queues.exe
+F:\Assisted Project\Section8-Working with Data Structures\Queues\Queues\bin\Debug\Queues.pdb
+F:\Assisted Project\Section8-Working with Data Structures\Queues\Queues\obj\Debug\Queues.csproj.AssemblyReference.cache
+F:\Assisted Project\Section8-Working with Data Structures\Queues\Queues\obj\Debug\Queues.csproj.SuggestedBindingRedirects.cache
+F:\Assisted Project\Section8-Working with Data Structures\Queues\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+F:\Assisted Project\Section8-Working with Data Structures\Queues\Queues\obj\Debug\Queues.exe
+F:\Assisted Project\Section8-Working with Data Structures\Queues\Queues\obj\Debug\Queues.pdb

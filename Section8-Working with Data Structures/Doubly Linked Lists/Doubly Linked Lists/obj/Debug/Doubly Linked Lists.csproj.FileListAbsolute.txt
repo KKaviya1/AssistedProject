@@ -1,0 +1,8 @@
+F:\Assisted Project\Section8-Working with Data Structures\Doubly Linked Lists\Doubly Linked Lists\bin\Debug\Doubly Linked Lists.exe.config
+F:\Assisted Project\Section8-Working with Data Structures\Doubly Linked Lists\Doubly Linked Lists\bin\Debug\Doubly Linked Lists.exe
+F:\Assisted Project\Section8-Working with Data Structures\Doubly Linked Lists\Doubly Linked Lists\bin\Debug\Doubly Linked Lists.pdb
+F:\Assisted Project\Section8-Working with Data Structures\Doubly Linked Lists\Doubly Linked Lists\obj\Debug\Doubly Linked Lists.csproj.AssemblyReference.cache
+F:\Assisted Project\Section8-Working with Data Structures\Doubly Linked Lists\Doubly Linked Lists\obj\Debug\Doubly Linked Lists.csproj.SuggestedBindingRedirects.cache
+F:\Assisted Project\Section8-Working with Data Structures\Doubly Linked Lists\Doubly Linked Lists\obj\Debug\Doubly Linked Lists.csproj.CoreCompileInputs.cache
+F:\Assisted Project\Section8-Working with Data Structures\Doubly Linked Lists\Doubly Linked Lists\obj\Debug\Doubly Linked Lists.exe
+F:\Assisted Project\Section8-Working with Data Structures\Doubly Linked Lists\Doubly Linked Lists\obj\Debug\Doubly Linked Lists.pdb
