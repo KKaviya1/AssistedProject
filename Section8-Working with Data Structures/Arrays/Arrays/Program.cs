@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Phase1Section4._4
+namespace subject
 {
     class Program
     {
